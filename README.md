@@ -36,7 +36,7 @@ O curso teve como objetivo introduzir a linguagem Java de forma estruturada, prÃ
 
 ## ðŸ›  Tecnologias Utilizadas
 
-- Java 17+
+- Java 21+
 - Eclipse IDE
 - Banco de Dados (JDBC)
 - Git + GitHub
